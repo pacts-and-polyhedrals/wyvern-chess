@@ -82,4 +82,4 @@ Wyvern Chess can be hosted with GitHub Pages and played directly in a browser.
 Example:
 
 ```text
-https://pacts-and-polyhedral.github.io/wyvern-chess/
+https://pacts-and-polyhedrals.github.io/wyvern-chess/
